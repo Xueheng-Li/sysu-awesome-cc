@@ -1,3 +1,5 @@
+
+
 # 🤖 Our Awesome CC - Lingnan College SYSU
 
 这是一个中山大学岭南学院师生共同贡献维护的 **Claude Code** 插件和工具集合！🚀
@@ -19,6 +21,7 @@ sysu-awesome-cc/
 │   └── web-researcher.md    # 🔍 网络研究代理
 ├── commands/                # ⚡ 斜杠命令（暂无）
 ├── skills/
+│   ├── arxiv/               # 📚 arXiv 论文搜索与总结
 │   ├── cc-insights/         # 📊 CC 交互洞察分析
 │   ├── chat-history-summarizer/  # 📝 聊天历史总结
 │   ├── chinese-quote-converter/  # ✏️ 中文引号转换
@@ -44,6 +47,7 @@ sysu-awesome-cc/
 
 | 技能 | 说明 |
 |------|------|
+| **arxiv** 📚 | 搜索 arXiv 论文并总结，支持快速概览、深入分析、文献综述和单篇论文深入分析 |
 | **cc-insights** 📊 | Claude Code 交互历史自动归档与深度分析，支持多维度洞察、使用模式分析和改进建议生成 |
 | **chat-history-summarizer** 📝 | 提取并总结聊天历史为结构化文档，记录用户输入和 Claude 行动，便于知识传承和复盘 |
 | **chinese-quote-converter** ✏️ | 将英文直引号转换为中文弯引号（"..." → “...”），支持代码块保护，适合中文文档排版 |
