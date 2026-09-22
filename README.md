@@ -1,13 +1,11 @@
 # 🤖 Our Awesome CC - Lingnan College SYSU
 
-这是一个中山大学岭南学院师生共同贡献维护的 **Claude Code** 插件和工具集合！🚀
+此仓库已不再更新，请移步至：
 
-欢迎贡献！如果觉得项目有用，请点个 ⭐ Star 支持一下！
-
-**🌟 项目地址**: [github.com/Xueheng-Li/sysu-awesome-cc](https://github.com/Xueheng-Li/sysu-awesome-cc)
+**🌟 项目地址**: github.com/ai-lingnan/sysu-awesome-cc
 
 ```bash
-git clone https://github.com/Xueheng-Li/sysu-awesome-cc.git
+git clone https://github.com/ai-lingnan/sysu-awesome-cc.git
 ```
 
 ## 📂 项目结构
